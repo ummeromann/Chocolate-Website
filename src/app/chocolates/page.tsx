@@ -11,9 +11,9 @@ const Chocolates = () => {
     {id: 3, name: "Berry Burst ", price: "$6.50", description: "Dark chocolate infused with raspberry.", image: 
     "/chocolate3.jpg"},
 
-    {id: 4, name: "Pistachio Perfection", price: "$7.00", description: "A luxurious blend of creamy milk chocolate and roasted pistachios, offering a delightful crunch in every bite.", image: "/chocolate4.jpg"},
+    {id: 4, name: "Pistachio Perfection", price: "$7.00", description: "A luxurious blend of creamy milk chocolate and roasted pistachios.", image: "/chocolate4.jpg"},
 
-    {id: 5, name: "Cookie Crumble Craze", price: "$8.00", description: "Milk chocolate with crunchy cookie bits.", image: "/chocolate5.jpg"},
+    {id: 5, name: "Cookie Crumble Craze", price: "$8.00", description: "Milk chocolate with crunchy cookie bits. You can enjoy every little bit of it.", image: "/chocolate5.jpg"},
 
     {id: 6, name: "Crunch & Munch Magic", price: "$12.00", description: "Chocolate with crisped rice, caramel chunks, and roasted nuts.", image: "/chocolate6.jpg"},
   ]
